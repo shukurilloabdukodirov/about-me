@@ -24,7 +24,7 @@
 >
 <a id="resume"></a>
 ### My Resume
-You can download it from [here](https://drive.google.com/drive/u/0/folders/1rf8G7w-VljBeHoWkK2SDElRkjgVpbWQZ).
+You can download it from [here](https://drive.google.com/file/d/1UVPOaM8EH9iqCIo8WLcIIb_Mv9hS_-AB/view?usp=sharing).
 
 <a id="my-first-experience"></a>
 ### My first experience: 2019 - 2021
